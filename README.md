@@ -5,9 +5,9 @@ This project is a Connect 4 game with a "player vs player" and "player vs maxmin
 AI is enabled on default.
 
 The first screen is the menu screen where it has 3 buttons:
-SFX Button: Plays the button click sound
-API Button: Displays the weather for San Francisco
-Game: Launches the Connect 4 game
+- SFX Button: Plays the button click sound
+- API Button: Displays the weather for San Francisco
+- Game: Launches the Connect 4 game
 
 **Implementation Details:**
 
