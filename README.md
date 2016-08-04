@@ -1,5 +1,4 @@
 Connect 4 Project for PennyPop Interview
-===
 
 This project is a Connect 4 game with a "player vs player" and "player vs maxmining AI" mode. 
 AI is enabled on default.
@@ -9,7 +8,7 @@ SFX Button: Plays the button click sound
 API Button: Displays the weather for San Francisco
 Game: Launches the Connect 4 game
 
-**Implementation Details:**
+Implementation Details:
 
 This project has 2 screens: MainScreen and GameScreen
 
@@ -25,7 +24,7 @@ AI is implemented in AI.java which uses an algorithm where it tries to get the h
 
 Assets for the entire program are handled by Assets.java which uses AssetManager to load and get the assets.
 
-**Screenshots:**
+Screenshots:
 
 ![Main Screen](https://raw.githubusercontent.com/allan3723/Connect-4/master/screenshots/MainScreen.png)
 ![Game Screen](https://raw.githubusercontent.com/allan3723/Connect-4/master/screenshots/GameScreen.png)
