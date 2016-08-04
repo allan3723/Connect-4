@@ -26,5 +26,3 @@ Assets for the entire program are handled by Assets.java which uses AssetManager
 
 Screenshots:
 
-![Main Screen](https://raw.githubusercontent.com/allan3723/Connect-4/master/screenshots/MainScreen.png)
-![Game Screen](https://raw.githubusercontent.com/allan3723/Connect-4/master/screenshots/GameScreen.png)
